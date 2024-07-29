@@ -1,2 +1,2 @@
 # suryaspractice
-its just fror practice
+its just for practice
